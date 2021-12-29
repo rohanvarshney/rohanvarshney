@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey ya'll 🙇🏾
 
 - 🔭 I’m currently working at [Lyft](https://www.lyft.com)
 - 📫 How to read more about me: [rohanvarshney.github.io](https://rohanvarshney.github.io)
