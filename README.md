@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Lyft[https://www.lyft.com]
+- 📫 How to read more about me: rohanvarshney.github.io[https://rohanvarshney.github.io]
+
 <!--
 **rohanvarshney/rohanvarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
